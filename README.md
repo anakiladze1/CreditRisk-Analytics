@@ -5,3 +5,6 @@ Feature Engineering: Processed features, converted categorical variables, scaled
 Models: Logistic Regression, Decision Tree, and Gradient Boosting.
 Classification Threshold: Applied classification thresholds to optimize decision boundaries for risk prediction.
 Model Interpretability: Utilized SHAP and LIME to interpret model predictions and explain individual feature impacts.
+
+
+you can see app there : https://creditrisk-analytics-zkszekjjpzhgdqvrvv2tgs.streamlit.app/
