@@ -1,10 +1,9 @@
-streamlit: 1.58.0
-pandas: 2.3.3
-numpy: 2.3.3
-scikit-learn: 1.7.2
-matplotlib: 3.10.6
-seaborn: 0.13.2
-shap: 0.52.0
-lime: 0.2.0.1
-imbalanced-learn: 0.14.2
-Click to add a cell.
+streamlit==1.58.0
+pandas==2.3.3
+numpy==2.3.3
+scikit-learn==1.7.2
+matplotlib==3.10.6
+seaborn==0.13.2
+shap==0.52.0
+lime==0.2.0.1
+imbalanced-learn==0.12.4
