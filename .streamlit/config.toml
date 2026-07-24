@@ -1,2 +1,5 @@
-[general]
-pythonVersion = "3.11"
+[server]
+enableCORS = false
+
+[runner]
+magicEnabled = true
