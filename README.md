@@ -7,4 +7,4 @@ Classification Threshold: Applied classification thresholds to optimize decision
 Model Interpretability: Utilized SHAP and LIME to interpret model predictions and explain individual feature impacts.
 
 
-you can see app there : https://creditrisk-analytics-zkszekjjpzhgdqvrvv2tgs.streamlit.app/
+you can see app there : https://creditrisk-analytics.streamlit.app/
